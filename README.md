@@ -1,1 +1,5 @@
 # SQL_Projects
+
+The Northwind database is a fictional but realistic relational database that is often used to teach and learn about database management. Microsoft created the Northwind database to show how a company's operational data is organized and how the different parts of the data are related to each other.The Northwind database is not based on a real business, but it presents a realistic scenario that students, developers, and database enthusiasts can use to practice their skills.Some of the skills that can be practiced using the Northwind database include designing database schemas, writing SQL queries, and exploring database concepts.
+
+In this SQL project, I will use the Northwind database, which is a sample database that is often used to learn and practice SQL concepts. I will focus on analyzing sales data to learn more about customers, products, and orders. To do this, I will write SQL queries to get and change the data, and I will perform calculations to make reports that are useful.
